@@ -7,12 +7,14 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##About the R script
 <p>The R script assumes the zip file has been downloaded, unzipped, and stored in the working directory. The script assumes itself has been stored in the working directory as well, with the following files and folders: </p>
+<ul>
 <li>activity_labels.txt</li>
 <li>features.txt</li>
 <li>feature.info.txt</li>
 <li>README.txt</li>
 <li>test/</li>
 <li>train/</li>
+</ul>
 <p>The output tidydata.txt will also be created here.</p>
 <p>The R script requires reshape2 package </p>
 
