@@ -18,7 +18,7 @@ subject numbers 1:30 unique identifier to each subject
 <p>"WALKING_DOWNSTAIRS"</p>
 <p>"WALKING_UPSTAIRS"</p>
 ####features
-<ul>
+------------
 tBodyAcc-mean()-X
 tBodyAcc-mean()-Y
 tBodyAcc-mean()-Z
